@@ -1,0 +1,42 @@
+body{
+    background-color: #27ae60;
+    font-family: Roboto, sans-serif;
+}
+
+.container{
+    margin: 100px auto;
+    width: 500px;
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    height: 450px;
+}
+
+h1{
+    text-align: center;
+    background-color:#34495e;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+}
+
+button{
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding:  15px;
+}
+
+button:hover{
+    background-color:#c0392b;
+}
+
+sup{
+    font-size: 2em;
+    color: #27ae60;
+}
+
+#tip-amount{
+    font-size: 2em;
+    color: #27ae60;
+}
